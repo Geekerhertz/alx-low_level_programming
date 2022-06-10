@@ -1,4 +1,4 @@
-#include <"stdio.h">
+#include "main"
 
 /**
  * main - prints the size of various ypes
